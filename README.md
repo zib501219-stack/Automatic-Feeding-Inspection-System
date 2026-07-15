@@ -19,3 +19,11 @@
 - `validation/`: ISO/opposite/front/top verification views
 
 Actual vision accuracy and measured takt require the final camera, dataset, PLC program and physical machine. They are not fabricated in this repository.
+
+## 二维工程图 / 2D engineering drawings
+
+- `drawings/总装图_Overall_Assembly.*`：A2 总装图，直接由详细 STEP 装配体生成三视图、明细栏与装配技术要求。
+- `drawings/直线送料轨道_Linear_Feeder_Track.*`、`V形定位座_V_Block_Locator.*`、`分料安装板_Separator_Mounting_Plate.*`：A3 关键零件图。
+- `drawings/二维工程图册_2D_Engineering_Drawings.pdf`：四页合订图册。
+
+标注采用中国大陆简体中文与 GB/T 常用机械制图术语，英文为辅助说明；每张图同时提供 DXF、PDF、PNG 和可重生成 Python 源文件。
