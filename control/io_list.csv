@@ -1,0 +1,17 @@
+tag,type,device,function
+X00,input,photo sensor,bowl exit occupied
+X01,input,photo sensor,queue present
+X02,input,proximity sensor,gate 1 position
+X03,input,proximity sensor,gate 2 position
+X04,input,photo sensor,V-block part present
+X05,input,laser micrometer,measurement ready
+X06,input,camera,inspection complete
+X07,input,safety relay,safety chain healthy
+Y00,output,separator valve,gate 1 cylinder
+Y01,output,separator valve,gate 2 cylinder
+Y02,output,transfer valve,inspection carriage
+Y03,output,eject valve,OK/NG discharge
+Y04,output,bowl controller,feed enable
+Y05,output,camera trigger,image acquisition
+Y06,output,stack light,run/fault indication
+Y07,output,safety contactor,motion enable

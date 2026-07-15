@@ -1,0 +1,12 @@
+parameter,value,unit,status
+workpiece_length,60,mm,design baseline
+workpiece_max_diameter,20,mm,design baseline
+workpiece_mass,0.12,kg,design baseline
+target_rate,12,parts/min,target
+cycle_time,5,s,calculated
+air_pressure,0.5,MPa,assumed
+transfer_cylinder_bore,20,mm,selected baseline
+separator_cylinder_bore,16,mm,selected baseline
+model_bounding_box,1480x862.5x1324.5,mm,verified
+step_faces,924,count,verified
+step_edges,1698,count,verified
