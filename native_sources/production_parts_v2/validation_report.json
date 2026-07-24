@@ -1,0 +1,66 @@
+[
+  {
+    "part_no": "FI-005",
+    "step": "native_sources\\production_parts_v2\\step\\FI-005_separator_gate.step",
+    "solids": 1,
+    "bbox_mm": [
+      110.0,
+      100.0,
+      12.0
+    ],
+    "expected_bbox_mm": [
+      110,
+      100,
+      12
+    ],
+    "passed": true
+  },
+  {
+    "part_no": "FI-006",
+    "step": "native_sources\\production_parts_v2\\step\\FI-006_hard_stop_bracket.step",
+    "solids": 1,
+    "bbox_mm": [
+      110.0,
+      70.0,
+      90.0
+    ],
+    "expected_bbox_mm": [
+      110,
+      70,
+      90
+    ],
+    "passed": true
+  },
+  {
+    "part_no": "FI-007",
+    "step": "native_sources\\production_parts_v2\\step\\FI-007_photo_sensor_bracket.step",
+    "solids": 1,
+    "bbox_mm": [
+      45.0,
+      32.0,
+      55.0
+    ],
+    "expected_bbox_mm": [
+      45,
+      32,
+      55
+    ],
+    "passed": true
+  },
+  {
+    "part_no": "FI-008",
+    "step": "native_sources\\production_parts_v2\\step\\FI-008_camera_crossbeam_mount.step",
+    "solids": 1,
+    "bbox_mm": [
+      120.0,
+      90.0,
+      24.0
+    ],
+    "expected_bbox_mm": [
+      120,
+      90,
+      24
+    ],
+    "passed": true
+  }
+]

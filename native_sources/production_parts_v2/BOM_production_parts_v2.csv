@@ -1,0 +1,5 @@
+﻿item,part_no,part_name,qty,material,overall_mm,note,step,dxf,pdf
+1,FI-005,separator_gate,2,45 steel,110x100x12,Gate plate with 18 mm actuator hole,step/FI-005_separator_gate.step,dxf/FI-005_separator_gate.dxf,pdf/FI-005_separator_gate.pdf
+2,FI-006,hard_stop_bracket,1,Q235B,110x70x90,L bracket with 22 mm stop bore,step/FI-006_hard_stop_bracket.step,dxf/FI-006_hard_stop_bracket.dxf,pdf/FI-006_hard_stop_bracket.pdf
+3,FI-007,photo_sensor_bracket,5,SUS304,45x32x55,"Bent sensor bracket, 12 mm sensor hole",step/FI-007_photo_sensor_bracket.step,dxf/FI-007_photo_sensor_bracket.dxf,pdf/FI-007_photo_sensor_bracket.pdf
+4,FI-008,camera_crossbeam_mount,1,6061-T6,120x90x24,Camera mount plate with central relief,step/FI-008_camera_crossbeam_mount.step,dxf/FI-008_camera_crossbeam_mount.dxf,pdf/FI-008_camera_crossbeam_mount.pdf

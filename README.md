@@ -30,6 +30,7 @@
 - [详细参数化模型](models/automatic_feeding_inspection.py)及[整机STEP](models/automatic_feeding_inspection.step)
 - `native_sources/solidworks/`：4个真实 SolidWorks 2023 `.SLDPRT`
 - `native_sources/enhanced_key_parts/`：增强轨道、支架和定位座 STEP
+- `native_sources/production_parts_v2/`：分料闸板、硬限位支架、传感器支架和相机横梁安装座
 - `drawings/`：总装图及关键零件 DXF、PDF、PNG
 - `native_sources/engineering_package/`：受控零件号、BOM、A3图纸和爆炸参考装配
 - `control/`：I/O、动作顺序和联锁资料

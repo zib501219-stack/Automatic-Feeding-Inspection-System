@@ -48,6 +48,8 @@ The reference assembly is an exploded key-part review layout. Use the repository
 
 `overlap_classification_worklist.csv` adds P1/P2/P3 priorities, inferred mechanism zones, likely geometry categories, required actions and an open/closed review field. These are screening inferences; final acceptance still requires named components and section-view review.
 
+`solid_component_map.csv` now maps all 179 STEP solids back to their parametric-source component names. The order was accepted only after all six bounding-box coordinates matched the exported STEP within 0.001 mm.
+
 ## Structural analysis
 
 `structural_analysis/` contains a reproducible 24-element Euler-Bernoulli beam FE check for the 600 mm feeder base under a conservative 150 N center load. The first 12 mm design produced 0.970 mm deflection and exceeded the provisional 0.80 mm limit. The base was increased to 14 mm in the enhanced STEP and engineering package; the rerun gives 0.611 mm deflection and 9.84 MPa bending stress, passing the preliminary limits without crediting rail stiffening.
@@ -55,3 +57,7 @@ The reference assembly is an exploded key-part review layout. Use the repository
 ## Native-format status
 
 `native_format_status/` records exactly which SolidWorks, STEP and DXF sources were verified, the NX `-10005` license failure, the enhanced-STEP import limitation and the recovery path for a constrained native assembly, DWG save and 3D solver study.
+
+## Production parts V2
+
+`production_parts_v2/` adds controlled parts FI-005 to FI-008: separator gate, hard-stop bracket, photo-sensor bracket and camera crossbeam mount. Every part has a single-solid STEP, editable millimetre DXF, A3 PDF, reviewed isometric snapshot, BOM entry and reproducible generator.
