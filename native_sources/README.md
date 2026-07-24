@@ -37,3 +37,7 @@ The reference assembly is an exploded key-part review layout. Use the repository
 ## Engineering analysis
 
 `engineering_analysis/` adds traceable pneumatic-force checks for the 16 mm and 20 mm cylinders, force safety factors, a five-second cycle allocation, feeder clearance recommendations, locator fits and a verification matrix separating calculated targets from physical commissioning.
+
+## Sequence validation
+
+`motion_validation/` contains the five-second cycle timeline, 0.1-second state samples, command interlock matrix and reviewed timeline chart. It documents the conditions for part release, transfer, inspection and return without presenting the sequence as a commissioned PLC result.
