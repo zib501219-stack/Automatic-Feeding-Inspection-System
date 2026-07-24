@@ -1,5 +1,7 @@
 # Automatic Feeding and AI Inspection System
 
+> 简历项目证据入口：[`resume_evidence/README.md`](resume_evidence/README.md)
+
 面向 60 × 20 mm、约 0.12 kg 阶梯轴的自动定向上料、单件分离、V形定位、视觉与激光尺寸检测、OK/NG 分流工作站。设计节拍 **12 件/分钟（5 s/循环）**。
 
 ## Modules
