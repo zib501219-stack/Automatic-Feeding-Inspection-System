@@ -1,0 +1,5 @@
+﻿item,part_no,part_name,qty,material,overall_size_mm,source_step,drawing_dxf,drawing_pdf
+1,FI-001,linear_feeder_track,1,6061-T6,600x70x24,step/linear_feeder_track_enhanced.step,drawings/FI-001_linear_feeder_track.dxf,drawings/FI-001_linear_feeder_track.pdf
+2,FI-002,separator_cylinder_mount,1,Q235B,120x80x74,step/separator_cylinder_mount_enhanced.step,drawings/FI-002_separator_cylinder_mount.dxf,drawings/FI-002_separator_cylinder_mount.pdf
+3,FI-003,v_locator_base,1,45 steel,100x80x27,step/v_locator_base_enhanced.step,drawings/FI-003_v_locator_base.dxf,drawings/FI-003_v_locator_base.pdf
+4,FI-004,transfer_cylinder_bracket,1,Q235B,140x90x90,step/transfer_cylinder_bracket_enhanced.step,drawings/FI-004_transfer_cylinder_bracket.dxf,drawings/FI-004_transfer_cylinder_bracket.pdf
