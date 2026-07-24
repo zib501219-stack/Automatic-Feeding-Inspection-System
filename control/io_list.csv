@@ -1,17 +1,35 @@
-tag,type,device,function
-X00,input,photo sensor,bowl exit occupied
-X01,input,photo sensor,queue present
-X02,input,proximity sensor,gate 1 position
-X03,input,proximity sensor,gate 2 position
-X04,input,photo sensor,V-block part present
-X05,input,laser micrometer,measurement ready
-X06,input,camera,inspection complete
-X07,input,safety relay,safety chain healthy
-Y00,output,separator valve,gate 1 cylinder
-Y01,output,separator valve,gate 2 cylinder
-Y02,output,transfer valve,inspection carriage
-Y03,output,eject valve,OK/NG discharge
-Y04,output,bowl controller,feed enable
-Y05,output,camera trigger,image acquisition
-Y06,output,stack light,run/fault indication
-Y07,output,safety contactor,motion enable
+address,tag,type,device,normal_state,function,fail_safe_action
+I0.0,DI_ESTOP_OK,DI,safety relay,TRUE,dual-channel emergency-stop loop healthy,drop motion enable
+I0.1,DI_GUARD_OK,DI,safety interlock,TRUE,guard door locked,drop motion enable
+I0.2,DI_AIR_OK,DI,pressure switch,TRUE,air pressure above minimum,stop valves and bowl
+I0.3,DI_BOWL_EXIT,DI,photo sensor,FALSE,bowl exit occupied,stop bowl on timeout
+I0.4,DI_QUEUE_PRESENT,DI,photo sensor,FALSE,linear queue ready,hold feed
+I0.5,DI_GATE1_HOME,DI,cylinder sensor,TRUE,gate 1 home position,inhibit automatic
+I0.6,DI_GATE1_WORK,DI,cylinder sensor,FALSE,gate 1 work position,raise motion timeout
+I0.7,DI_GATE2_HOME,DI,cylinder sensor,TRUE,gate 2 home position,inhibit automatic
+I1.0,DI_GATE2_WORK,DI,cylinder sensor,FALSE,gate 2 work position,raise motion timeout
+I1.1,DI_TRANSFER_HOME,DI,cylinder sensor,TRUE,transfer carriage home,inhibit automatic
+I1.2,DI_TRANSFER_WORK,DI,cylinder sensor,FALSE,transfer carriage inspect position,raise motion timeout
+I1.3,DI_PART_AT_V,DI,photo sensor,FALSE,V-block part present,stop cycle and reject
+I1.4,DI_LASER_READY,DI,laser micrometer,FALSE,measurement complete,measurement timeout
+I1.5,DI_CAMERA_DONE,DI,camera controller,FALSE,vision result complete,vision timeout
+I1.6,DI_EJECT_HOME,DI,cylinder sensor,TRUE,eject cylinder retracted,inhibit automatic
+I1.7,DI_EJECT_WORK,DI,cylinder sensor,FALSE,eject cylinder extended,raise motion timeout
+I2.0,DI_BIN_OK_FULL,DI,level sensor,FALSE,OK bin full,stop automatic
+I2.1,DI_BIN_NG_FULL,DI,level sensor,FALSE,NG bin full,stop automatic
+I2.2,DI_RESET,DI,panel pushbutton,FALSE,fault reset request,reset only after cause removed
+I2.3,DI_START,DI,panel pushbutton,FALSE,automatic start request,require ready permissive
+I2.4,DI_STOP,DI,panel pushbutton,TRUE,controlled stop request,finish or abort safe
+Q0.0,DO_GATE1,DO,valve island,FALSE,extend gate 1,de-energize to home
+Q0.1,DO_GATE2,DO,valve island,FALSE,extend gate 2,de-energize to home
+Q0.2,DO_TRANSFER,DO,valve island,FALSE,move carriage to inspection,de-energize to home
+Q0.3,DO_EJECT_OK,DO,valve island,FALSE,route/eject OK part,de-energize
+Q0.4,DO_EJECT_NG,DO,valve island,FALSE,route/eject NG part,de-energize
+Q0.5,DO_BOWL_ENABLE,DO,bowl controller,FALSE,enable vibratory feed,disable on fault
+Q0.6,DO_CAMERA_TRIGGER,DO,camera controller,FALSE,one-shot image trigger,clear after pulse
+Q0.7,DO_LASER_TRIGGER,DO,laser controller,FALSE,one-shot measurement trigger,clear after pulse
+Q1.0,DO_STACK_GREEN,DO,stack light,FALSE,automatic running,off on fault
+Q1.1,DO_STACK_YELLOW,DO,stack light,FALSE,manual/attention indication,on for recoverable stop
+Q1.2,DO_STACK_RED,DO,stack light,FALSE,fault indication,on for active fault
+Q1.3,DO_BUZZER,DO,buzzer,FALSE,new critical fault,pulse then acknowledge
+Q1.4,DO_MOTION_ENABLE,DO,safety contactor,FALSE,non-safety motion permissive,drop on safety loss

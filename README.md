@@ -31,6 +31,7 @@
 - `native_sources/solidworks/`：4个真实 SolidWorks 2023 `.SLDPRT`
 - `native_sources/enhanced_key_parts/`：增强轨道、支架和定位座 STEP
 - `native_sources/production_parts_v2/`：分料闸板、硬限位支架、传感器支架和相机横梁安装座
+- `native_sources/production_parts_v3/`：导轨压板、气缸叉头、阀岛安装板和背光支架
 - `drawings/`：总装图及关键零件 DXF、PDF、PNG
 - `native_sources/engineering_package/`：受控零件号、BOM、A3图纸和爆炸参考装配
 - `control/`：I/O、动作顺序和联锁资料
@@ -43,3 +44,5 @@
 五秒循环是离线设计目标，不是PLC或实体设备实测结果。视觉准确率、连续运行次数、防卡料效果和测量能力需依赖最终硬件与数据集验证。详细 STEP 中的实体交叠已形成筛查清单，仍需在带零件名称的原生装配中逐项分类。
 
 简历证据入口见 [`resume_evidence/README.md`](resume_evidence/README.md)，原生格式状态见 [`native_sources/native_format_status/`](native_sources/native_format_status/)。
+
+`control/` 已包含34点I/O、状态转换表、报警矩阵、HMI画面规范及IEC 61131-3结构化文本参考程序；采购询价接口见 [`docs/procurement_interface_freeze.csv`](docs/procurement_interface_freeze.csv)。

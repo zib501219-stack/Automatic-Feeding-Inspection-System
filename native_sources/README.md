@@ -50,6 +50,8 @@ The reference assembly is an exploded key-part review layout. Use the repository
 
 `solid_component_map.csv` now maps all 179 STEP solids back to their parametric-source component names. The order was accepted only after all six bounding-box coordinates matched the exported STEP within 0.001 mm.
 
+`p1_interference_disposition.csv` records an engineering treatment and closure evidence for all 17 P1 pairs. They remain open until native-assembly edits and a rerun provide closure evidence.
+
 ## Structural analysis
 
 `structural_analysis/` contains a reproducible 24-element Euler-Bernoulli beam FE check for the 600 mm feeder base under a conservative 150 N center load. The first 12 mm design produced 0.970 mm deflection and exceeded the provisional 0.80 mm limit. The base was increased to 14 mm in the enhanced STEP and engineering package; the rerun gives 0.611 mm deflection and 9.84 MPa bending stress, passing the preliminary limits without crediting rail stiffening.
@@ -61,3 +63,5 @@ The reference assembly is an exploded key-part review layout. Use the repository
 ## Production parts V2
 
 `production_parts_v2/` adds controlled parts FI-005 to FI-008: separator gate, hard-stop bracket, photo-sensor bracket and camera crossbeam mount. Every part has a single-solid STEP, editable millimetre DXF, A3 PDF, reviewed isometric snapshot, BOM entry and reproducible generator.
+
+`production_parts_v3/` adds FI-009 to FI-012: guide-rail clamp plate, cylinder-rod clevis, valve-manifold mounting plate and backlight bracket, with the same validated deliverable set.

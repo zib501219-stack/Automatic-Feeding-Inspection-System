@@ -1,0 +1,13 @@
+item_id,component,qty,candidate_class,required_interface,required_performance,verification_before_order,status
+P-01,vibratory bowl feeder,1,400 mm bowl with variable-frequency controller,discharge height and clockwise/counter-clockwise track direction,stable delivery above 15 parts/min for 60x20 mm stepped shaft,run sample-part feeding trial and confirm noise,CANDIDATE
+P-02,separator cylinders,2,ISO 6432 16 mm bore 65 mm stroke,front/rear clevis and magnetic piston,theoretical thrust about 100 N at 0.5 MPa,confirm actual mounting thread cushion and sensor groove,CANDIDATE
+P-03,transfer cylinder,1,20 mm bore 170 mm stroke guided or externally guided,rod-end thread and base mounting,theoretical thrust about 157 N at 0.5 MPa,confirm side-load capability or retain linear guides,CANDIDATE
+P-04,eject cylinder,1,16 mm bore 85 mm stroke,compact mounting and magnetic sensing,complete reject stroke within allocated sequence time,confirm cushioning and rod-end interface,CANDIDATE
+P-05,linear guides,2,15 mm miniature/standard rail 420 mm length,carriage bolt pattern and rail datum,combined load and life for carriage plus impact,calculate equivalent load and supplier life,CANDIDATE
+P-06,photoelectric sensors,5,M12 or compact 24 VDC diffuse/through-beam,PNP normally-open M12 connector,response below 2 ms and stable detection on steel part,confirm sensing mode background and installation distance,CANDIDATE
+P-07,PLC,1,24 VDC compact PLC with Ethernet,minimum 24 DI / 16 DO plus expansion,scan time and high-speed trigger adequate for sequence,freeze I/O count network and spare ratio before order,CANDIDATE
+P-08,HMI,1,7-inch Ethernet HMI,24 VDC panel cutout and PLC protocol,alarm history recipe and manual screen support,confirm tag count and screen resolution,CANDIDATE
+P-09,valve island,1,8-station 24 VDC valve manifold,G1/8 or G1/4 ports and PNP outputs,response compatible with 5 s cycle,confirm flow Cv exhaust silencer and manual override,CANDIDATE
+P-10,camera lens and backlight,1 set,global-shutter camera plus telecentric lens and 320x180 backlight,hardware trigger and enclosure interface,pixel resolution and exposure meet inspection tolerance,complete measurement uncertainty study,CANDIDATE
+P-11,laser micrometer,1 pair,through-beam dimensional sensor,measurement range covers 20 mm shaft and analog/Ethernet output,resolution below one tenth of product tolerance,confirm calibration traceability and sampling time,CANDIDATE
+P-12,safety relay and interlock,1 set,dual-channel 24 VDC safety circuit,E-stop guard switch and contactor feedback,required PLr from risk assessment,complete safety validation and stopping-time test,OPEN

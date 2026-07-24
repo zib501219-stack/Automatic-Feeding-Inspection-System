@@ -1,0 +1,66 @@
+[
+  {
+    "part_no": "FI-009",
+    "step": "native_sources\\production_parts_v3\\step\\FI-009_guide_rail_clamp_plate.step",
+    "solids": 1,
+    "bbox_mm": [
+      80.0,
+      32.0,
+      6.0
+    ],
+    "expected_bbox_mm": [
+      80,
+      32,
+      6
+    ],
+    "passed": true
+  },
+  {
+    "part_no": "FI-010",
+    "step": "native_sources\\production_parts_v3\\step\\FI-010_cylinder_rod_clevis.step",
+    "solids": 1,
+    "bbox_mm": [
+      52.0,
+      34.0,
+      46.0
+    ],
+    "expected_bbox_mm": [
+      52,
+      34,
+      46
+    ],
+    "passed": true
+  },
+  {
+    "part_no": "FI-011",
+    "step": "native_sources\\production_parts_v3\\step\\FI-011_valve_manifold_mounting_plate.step",
+    "solids": 1,
+    "bbox_mm": [
+      260.0,
+      120.0,
+      8.0
+    ],
+    "expected_bbox_mm": [
+      260,
+      120,
+      8
+    ],
+    "passed": true
+  },
+  {
+    "part_no": "FI-012",
+    "step": "native_sources\\production_parts_v3\\step\\FI-012_backlight_mount_bracket.step",
+    "solids": 1,
+    "bbox_mm": [
+      140.0,
+      60.0,
+      90.0
+    ],
+    "expected_bbox_mm": [
+      140,
+      60,
+      90
+    ],
+    "passed": true
+  }
+]
