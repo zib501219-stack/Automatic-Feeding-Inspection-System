@@ -58,7 +58,7 @@ def robot_gripper_finger():
 
 
 def feeder_track():
-    base = rounded_plate(600, 70, 12, 6)
+    base = rounded_plate(600, 70, 14, 6)
     base = cut_cbore(base, [(-270,-23),(-270,23),(270,-23),(270,23)], 9, 16, 5)
     rail1 = cq.Workplane("XY", origin=(0,-27,9)).box(560,12,18).edges("|Z").fillet(2)
     rail2 = cq.Workplane("XY", origin=(0,27,9)).box(560,12,18).edges("|Z").fillet(2)

@@ -1,10 +1,10 @@
 [
   {
     "project": "02_feeding_inspection",
-    "max_abs_deflection_mm": 0.9704968944042405,
-    "max_bending_stress_mpa": 13.392857142791772,
-    "yield_safety_factor": 17.920000000087466,
+    "max_abs_deflection_mm": 0.611158394147539,
+    "max_bending_stress_mpa": 9.839650145774947,
+    "yield_safety_factor": 24.391111111105282,
     "stress_pass_sf_1_5": true,
-    "deflection_pass": false
+    "deflection_pass": true
   }
 ]

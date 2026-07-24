@@ -28,7 +28,7 @@ PROJECTS = {
     "02_feeding_inspection": {
         "title": "Automatic Feeding and Inspection System",
         "parts": [
-            ("FI-001", "linear_feeder_track", 600, 70, 24, "6061-T6", 1, [(-270,-23,9),(-270,23,9),(270,-23,9),(270,23,9)]),
+            ("FI-001", "linear_feeder_track", 600, 70, 25, "6061-T6", 1, [(-270,-23,9),(-270,23,9),(270,-23,9),(270,23,9)]),
             ("FI-002", "separator_cylinder_mount", 120, 80, 74, "Q235B", 1, [(-45,-25,7),(45,-25,7)]),
             ("FI-003", "v_locator_base", 100, 80, 27, "45 steel", 1, [(-35,-25,7),(35,-25,7),(0,30,8)]),
             ("FI-004", "transfer_cylinder_bracket", 140, 90, 90, "Q235B", 1, [(-50,-25,7),(50,-25,7)]),

@@ -46,9 +46,11 @@ The reference assembly is an exploded key-part review layout. Use the repository
 
 `collision_validation/` contains the per-solid bounding boxes and exact common-volume results from the detailed machine STEP. The scan found many intersecting pairs, so the detailed STEP is **not released as a collision-free manufacturing assembly**. The list mixes expected fitting interfaces with overlaps inherited from visual construction geometry and must be classified in a named native assembly.
 
+`overlap_classification_worklist.csv` adds P1/P2/P3 priorities, inferred mechanism zones, likely geometry categories, required actions and an open/closed review field. These are screening inferences; final acceptance still requires named components and section-view review.
+
 ## Structural analysis
 
-`structural_analysis/` contains a reproducible 24-element Euler-Bernoulli beam FE check for the 600 mm feeder base under a conservative 150 N center load. Stress is acceptable, but the calculated 0.97 mm deflection exceeds the provisional 0.80 mm limit when rail stiffening is ignored. The current action is to include the rail section in the final model or thicken/add a rib to the base, then rerun the check.
+`structural_analysis/` contains a reproducible 24-element Euler-Bernoulli beam FE check for the 600 mm feeder base under a conservative 150 N center load. The first 12 mm design produced 0.970 mm deflection and exceeded the provisional 0.80 mm limit. The base was increased to 14 mm in the enhanced STEP and engineering package; the rerun gives 0.611 mm deflection and 9.84 MPa bending stress, passing the preliminary limits without crediting rail stiffening.
 
 ## Native-format status
 
