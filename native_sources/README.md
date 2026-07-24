@@ -41,3 +41,15 @@ The reference assembly is an exploded key-part review layout. Use the repository
 ## Sequence validation
 
 `motion_validation/` contains the five-second cycle timeline, 0.1-second state samples, command interlock matrix and reviewed timeline chart. It documents the conditions for part release, transfer, inspection and return without presenting the sequence as a commissioned PLC result.
+
+## Solid overlap screening
+
+`collision_validation/` contains the per-solid bounding boxes and exact common-volume results from the detailed machine STEP. The scan found many intersecting pairs, so the detailed STEP is **not released as a collision-free manufacturing assembly**. The list mixes expected fitting interfaces with overlaps inherited from visual construction geometry and must be classified in a named native assembly.
+
+## Structural analysis
+
+`structural_analysis/` contains a reproducible 24-element Euler-Bernoulli beam FE check for the 600 mm feeder base under a conservative 150 N center load. Stress is acceptable, but the calculated 0.97 mm deflection exceeds the provisional 0.80 mm limit when rail stiffening is ignored. The current action is to include the rail section in the final model or thicken/add a rib to the base, then rerun the check.
+
+## Native-format status
+
+`native_format_status/` records exactly which SolidWorks, STEP and DXF sources were verified, the NX `-10005` license failure, the enhanced-STEP import limitation and the recovery path for a constrained native assembly, DWG save and 3D solver study.

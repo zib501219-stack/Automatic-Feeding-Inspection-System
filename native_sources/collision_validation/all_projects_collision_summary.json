@@ -1,0 +1,113 @@
+{
+  "02_feeding_inspection": {
+    "source_step": "C:\\Users\\Administrator\\Documents\\Codex\\2026-07-24\\zha\\work\\repo_sync\\Automatic-Feeding-Inspection-System\\models\\automatic_feeding_inspection.step",
+    "solid_count": 179,
+    "bbox_candidate_pair_count": 233,
+    "exact_overlap_pair_count": 227,
+    "exact_intersection_failures": 0,
+    "exact_overlap_threshold_mm3": 0.5,
+    "runtime_seconds": 1.361,
+    "largest_overlap_pairs": [
+      {
+        "solid_a": 22,
+        "solid_b": 23,
+        "common_volume_mm3": 10189363.072836798
+      },
+      {
+        "solid_a": 21,
+        "solid_b": 22,
+        "common_volume_mm3": 2268229.8958918303
+      },
+      {
+        "solid_a": 164,
+        "solid_b": 165,
+        "common_volume_mm3": 1764000.0
+      },
+      {
+        "solid_a": 20,
+        "solid_b": 22,
+        "common_volume_mm3": 1509535.2700498954
+      },
+      {
+        "solid_a": 21,
+        "solid_b": 23,
+        "common_volume_mm3": 1509535.2700498954
+      },
+      {
+        "solid_a": 16,
+        "solid_b": 164,
+        "common_volume_mm3": 940800.0
+      },
+      {
+        "solid_a": 16,
+        "solid_b": 165,
+        "common_volume_mm3": 761600.0
+      },
+      {
+        "solid_a": 5,
+        "solid_b": 165,
+        "common_volume_mm3": 448000.0
+      },
+      {
+        "solid_a": 20,
+        "solid_b": 23,
+        "common_volume_mm3": 377383.81751247385
+      },
+      {
+        "solid_a": 1,
+        "solid_b": 17,
+        "common_volume_mm3": 324000.0
+      },
+      {
+        "solid_a": 16,
+        "solid_b": 19,
+        "common_volume_mm3": 304106.168867492
+      },
+      {
+        "solid_a": 4,
+        "solid_b": 16,
+        "common_volume_mm3": 168000.0
+      },
+      {
+        "solid_a": 5,
+        "solid_b": 16,
+        "common_volume_mm3": 168000.0
+      },
+      {
+        "solid_a": 7,
+        "solid_b": 164,
+        "common_volume_mm3": 168000.0
+      },
+      {
+        "solid_a": 114,
+        "solid_b": 116,
+        "common_volume_mm3": 143687.5
+      },
+      {
+        "solid_a": 115,
+        "solid_b": 116,
+        "common_volume_mm3": 143687.5
+      },
+      {
+        "solid_a": 7,
+        "solid_b": 165,
+        "common_volume_mm3": 104000.0
+      },
+      {
+        "solid_a": 22,
+        "solid_b": 64,
+        "common_volume_mm3": 92088.40228271727
+      },
+      {
+        "solid_a": 6,
+        "solid_b": 16,
+        "common_volume_mm3": 86400.0
+      },
+      {
+        "solid_a": 7,
+        "solid_b": 16,
+        "common_volume_mm3": 86400.0
+      }
+    ]
+  }
+}

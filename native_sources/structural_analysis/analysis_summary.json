@@ -1,0 +1,22 @@
+{
+  "analysis_method": "1D Euler-Bernoulli beam finite element method",
+  "elements": 24,
+  "material": "6061-T6 铝合金",
+  "elastic_modulus_mpa": 69000.0,
+  "yield_strength_mpa": 240.0,
+  "length_mm": 600.0,
+  "equivalent_width_mm": 70.0,
+  "equivalent_depth_mm": 12.0,
+  "section_area_mm2": 840.0,
+  "second_moment_mm4": 10080.0,
+  "support": "simply_supported",
+  "load_type": "center",
+  "load_n": 150.0,
+  "design_basis": "150 N 中央集中载荷代表工件、滑台及冲击放大后的初步组合载荷；未计两侧导轨的增刚作用，偏保守。",
+  "max_abs_deflection_mm": 0.9704968944042405,
+  "allowable_deflection_mm": 0.8,
+  "max_bending_stress_mpa": 13.392857142791772,
+  "yield_safety_factor": 17.920000000087466,
+  "stress_pass_sf_1_5": true,
+  "deflection_pass": false
+}
