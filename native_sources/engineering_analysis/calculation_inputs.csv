@@ -1,0 +1,9 @@
+﻿parameter,value,unit,status,note
+workpiece_size,Ø20 x 60,mm,design baseline,cylindrical workpiece
+workpiece_mass,0.12,kg,design baseline,single part
+target_rate,12,parts/min,resume target,5 second cycle
+air_pressure,0.5,MPa,assumed,regulated supply pressure
+separator_cylinder_bore,16,mm,selected baseline,double-acting cylinder
+transfer_cylinder_bore,20,mm,selected baseline,double-acting cylinder
+pneumatic_efficiency,0.85,-,assumed,friction and pressure-loss allowance
+estimated_slide_resistance,15,N,assumed,"guide, seals and part contact"

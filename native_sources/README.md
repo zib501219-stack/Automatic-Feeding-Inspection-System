@@ -33,3 +33,7 @@ The original `.SLDPRT` files are retained as native sketch/extrusion examples. T
 `engineering_package/` adds controlled part numbers `FI-001` to `FI-004`, BOM, four DXF drawings, four A3 PDF sheets, an exploded reference assembly STEP, placement data, a reviewed assembly snapshot and a validation note.
 
 The reference assembly is an exploded key-part review layout. Use the repository's main detailed machine assembly for system-level arrangement and takt context.
+
+## Engineering analysis
+
+`engineering_analysis/` adds traceable pneumatic-force checks for the 16 mm and 20 mm cylinders, force safety factors, a five-second cycle allocation, feeder clearance recommendations, locator fits and a verification matrix separating calculated targets from physical commissioning.
