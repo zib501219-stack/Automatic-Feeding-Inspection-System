@@ -1,9 +1,0 @@
-﻿check,result,unit,criterion,status
-16 mm cylinder theoretical extension force,100.53096491487338,N,>15 N,PASS
-16 mm cylinder effective extension force,85.45132017764237,N,>15 N,PASS
-20 mm cylinder theoretical extension force,157.07963267948966,N,>15 N,PASS
-20 mm cylinder effective extension force,133.5176877775662,N,>15 N,PASS
-workpiece weight,1.1772,N,informational,INFO
-cycle time from target rate,5.0,s,<=5 s,PASS_AT_TARGET
-separator force safety factor,5.696754678509492,-,>=3,PASS_PRELIMINARY
-transfer force safety factor,8.901179185171081,-,>=3,PASS_PRELIMINARY

@@ -1,0 +1,422 @@
+{
+  "project": {
+    "folder": "02_stepped_shaft_feeding_inspection",
+    "title": "阶梯轴自动上料与检测设备",
+    "code": "FD",
+    "resume": [
+      "阶梯轴长度 60 mm、最大直径 20 mm",
+      "振动盘加直线轨道",
+      "V 形块定位",
+      "气源压力 0.5 MPa"
+    ]
+  },
+  "parts": [
+    {
+      "number": "FD-001",
+      "name": "设备台面",
+      "native": "SolidWorks\\parts\\FD-001_machine_table.SLDPRT",
+      "step": "STEP\\parts\\FD-001_machine_table.STEP",
+      "png": "Screenshots\\FD-001_machine_table.png",
+      "native_bytes": 85469,
+      "step_bytes": 25587,
+      "png_bytes": 104229,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-002",
+      "name": "机架立柱",
+      "native": "SolidWorks\\parts\\FD-002_frame_leg.SLDPRT",
+      "step": "STEP\\parts\\FD-002_frame_leg.STEP",
+      "png": "Screenshots\\FD-002_frame_leg.png",
+      "native_bytes": 65037,
+      "step_bytes": 37707,
+      "png_bytes": 75576,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-003",
+      "name": "振动盘安装板",
+      "native": "SolidWorks\\parts\\FD-003_bowl_base.SLDPRT",
+      "step": "STEP\\parts\\FD-003_bowl_base.STEP",
+      "png": "Screenshots\\FD-003_bowl_base.png",
+      "native_bytes": 105271,
+      "step_bytes": 63930,
+      "png_bytes": 108915,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-004",
+      "name": "振动盘料斗简化件",
+      "native": "SolidWorks\\parts\\FD-004_vibratory_bowl.SLDPRT",
+      "step": "STEP\\parts\\FD-004_vibratory_bowl.STEP",
+      "png": "Screenshots\\FD-004_vibratory_bowl.png",
+      "native_bytes": 112054,
+      "step_bytes": 29118,
+      "png_bytes": 112300,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-005",
+      "name": "振动盘驱动器简化件",
+      "native": "SolidWorks\\parts\\FD-005_bowl_drive.SLDPRT",
+      "step": "STEP\\parts\\FD-005_bowl_drive.STEP",
+      "png": "Screenshots\\FD-005_bowl_drive.png",
+      "native_bytes": 93549,
+      "step_bytes": 47803,
+      "png_bytes": 98440,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-006",
+      "name": "直线送料轨道",
+      "native": "SolidWorks\\parts\\FD-006_linear_track.SLDPRT",
+      "step": "STEP\\parts\\FD-006_linear_track.STEP",
+      "png": "Screenshots\\FD-006_linear_track.png",
+      "native_bytes": 99558,
+      "step_bytes": 67305,
+      "png_bytes": 121029,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-007",
+      "name": "轨道高度调节板",
+      "native": "SolidWorks\\parts\\FD-007_track_support.SLDPRT",
+      "step": "STEP\\parts\\FD-007_track_support.STEP",
+      "png": "Screenshots\\FD-007_track_support.png",
+      "native_bytes": 98251,
+      "step_bytes": 46777,
+      "png_bytes": 107911,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-008",
+      "name": "单件分离挡块",
+      "native": "SolidWorks\\parts\\FD-008_separator_block.SLDPRT",
+      "step": "STEP\\parts\\FD-008_separator_block.STEP",
+      "png": "Screenshots\\FD-008_separator_block.png",
+      "native_bytes": 98819,
+      "step_bytes": 46771,
+      "png_bytes": 107309,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-009",
+      "name": "分料气缸简化件",
+      "native": "SolidWorks\\parts\\FD-009_separator_cylinder.SLDPRT",
+      "step": "STEP\\parts\\FD-009_separator_cylinder.STEP",
+      "png": "Screenshots\\FD-009_separator_cylinder.png",
+      "native_bytes": 75400,
+      "step_bytes": 42796,
+      "png_bytes": 88498,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-010",
+      "name": "V形定位座底板",
+      "native": "SolidWorks\\parts\\FD-010_vblock_base.SLDPRT",
+      "step": "STEP\\parts\\FD-010_vblock_base.STEP",
+      "png": "Screenshots\\FD-010_vblock_base.png",
+      "native_bytes": 99455,
+      "step_bytes": 47281,
+      "png_bytes": 108156,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-011",
+      "name": "V形定位块",
+      "native": "SolidWorks\\parts\\FD-011_vblock_jaw.SLDPRT",
+      "step": "STEP\\parts\\FD-011_vblock_jaw.STEP",
+      "png": "Screenshots\\FD-011_vblock_jaw.png",
+      "native_bytes": 86754,
+      "step_bytes": 36163,
+      "png_bytes": 104849,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-012",
+      "name": "检测传感器支架",
+      "native": "SolidWorks\\parts\\FD-012_sensor_bracket.SLDPRT",
+      "step": "STEP\\parts\\FD-012_sensor_bracket.STEP",
+      "png": "Screenshots\\FD-012_sensor_bracket.png",
+      "native_bytes": 100760,
+      "step_bytes": 56068,
+      "png_bytes": 112494,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-013",
+      "name": "位移传感器简化件",
+      "native": "SolidWorks\\parts\\FD-013_sensor_body.SLDPRT",
+      "step": "STEP\\parts\\FD-013_sensor_body.STEP",
+      "png": "Screenshots\\FD-013_sensor_body.png",
+      "native_bytes": 73767,
+      "step_bytes": 42745,
+      "png_bytes": 86105,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-014",
+      "name": "推料气缸简化件",
+      "native": "SolidWorks\\parts\\FD-014_pusher_cylinder.SLDPRT",
+      "step": "STEP\\parts\\FD-014_pusher_cylinder.STEP",
+      "png": "Screenshots\\FD-014_pusher_cylinder.png",
+      "native_bytes": 74716,
+      "step_bytes": 42771,
+      "png_bytes": 87797,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-015",
+      "name": "分选滑槽",
+      "native": "SolidWorks\\parts\\FD-015_diverter_chute.SLDPRT",
+      "step": "STEP\\parts\\FD-015_diverter_chute.STEP",
+      "png": "Screenshots\\FD-015_diverter_chute.png",
+      "native_bytes": 97766,
+      "step_bytes": 44672,
+      "png_bytes": 125335,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-016",
+      "name": "透明防护罩框架",
+      "native": "SolidWorks\\parts\\FD-016_guard_panel.SLDPRT",
+      "step": "STEP\\parts\\FD-016_guard_panel.STEP",
+      "png": "Screenshots\\FD-016_guard_panel.png",
+      "native_bytes": 91163,
+      "step_bytes": 50865,
+      "png_bytes": 115598,
+      "features": [
+        "verified in original generation report"
+      ]
+    },
+    {
+      "number": "FD-017",
+      "name": "被检测阶梯轴（60×20）",
+      "native": "SolidWorks\\parts\\FD-017_workpiece_shaft.SLDPRT",
+      "step": "STEP\\parts\\FD-017_workpiece_shaft.STEP",
+      "png": "Screenshots\\FD-017_workpiece_shaft.png",
+      "native_bytes": 74166,
+      "step_bytes": 23368,
+      "png_bytes": 87408,
+      "features": [
+        "verified in original generation report"
+      ]
+    }
+  ],
+  "subassemblies": [
+    {
+      "name": "FD-100_frame_bowl_module",
+      "native": "SolidWorks\\assemblies\\FD-100_frame_bowl_module.SLDASM",
+      "step": "STEP\\assemblies\\FD-100_frame_bowl_module.STEP",
+      "png": "Screenshots\\FD-100_frame_bowl_module.png",
+      "occurrences": [
+        "table",
+        "leg_fl",
+        "leg_fr",
+        "leg_rl",
+        "leg_rr",
+        "bowl_base",
+        "bowl_drive",
+        "bowl"
+      ],
+      "native_bytes": 115488,
+      "step_bytes": 230398,
+      "png_bytes": 121623
+    },
+    {
+      "name": "FD-200_feed_position_module",
+      "native": "SolidWorks\\assemblies\\FD-200_feed_position_module.SLDASM",
+      "step": "STEP\\assemblies\\FD-200_feed_position_module.STEP",
+      "png": "Screenshots\\FD-200_feed_position_module.png",
+      "occurrences": [
+        "linear_track",
+        "track_support_1",
+        "track_support_2",
+        "track_support_3",
+        "separator_block",
+        "separator_cylinder",
+        "vblock_base",
+        "vjaw_left",
+        "vjaw_right",
+        "workpiece_check",
+        "workpiece_feed_1",
+        "workpiece_feed_2"
+      ],
+      "native_bytes": 140597,
+      "step_bytes": 348134,
+      "png_bytes": 161441
+    },
+    {
+      "name": "FD-300_inspection_divert_module",
+      "native": "SolidWorks\\assemblies\\FD-300_inspection_divert_module.SLDASM",
+      "step": "STEP\\assemblies\\FD-300_inspection_divert_module.STEP",
+      "png": "Screenshots\\FD-300_inspection_divert_module.png",
+      "occurrences": [
+        "sensor_bracket",
+        "sensor",
+        "pusher_cylinder",
+        "diverter_chute",
+        "guard_front",
+        "guard_rear"
+      ],
+      "native_bytes": 114928,
+      "step_bytes": 260051,
+      "png_bytes": 143588
+    }
+  ],
+  "main_assembly": {
+    "name": "FD-000_main_assembly",
+    "native": "SolidWorks\\assemblies\\FD-000_main_assembly.SLDASM",
+    "step": "STEP\\assemblies\\FD-000_main_assembly.STEP",
+    "png": "Screenshots\\FD-000_main_assembly.png",
+    "subassemblies": [
+      "FD-100_frame_bowl_module",
+      "FD-200_feed_position_module",
+      "FD-300_inspection_divert_module"
+    ],
+    "native_bytes": 196515,
+    "step_bytes": 858088,
+    "png_bytes": 141529
+  },
+  "drawings": [
+    {
+      "source": "SolidWorks\\parts\\FD-001_machine_table.SLDPRT",
+      "slddrw": "Drawings\\FD-001_machine_table.SLDDRW",
+      "pdf": "Drawings\\FD-001_machine_table.PDF",
+      "dxf": "Drawings\\FD-001_machine_table.DXF",
+      "slddrw_bytes": 83377,
+      "pdf_bytes": 112608,
+      "dxf_bytes": 52022
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-003_bowl_base.SLDPRT",
+      "slddrw": "Drawings\\FD-003_bowl_base.SLDDRW",
+      "pdf": "Drawings\\FD-003_bowl_base.PDF",
+      "dxf": "Drawings\\FD-003_bowl_base.DXF",
+      "slddrw_bytes": 99924,
+      "pdf_bytes": 115164,
+      "dxf_bytes": 67745
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-004_vibratory_bowl.SLDPRT",
+      "slddrw": "Drawings\\FD-004_vibratory_bowl.SLDDRW",
+      "pdf": "Drawings\\FD-004_vibratory_bowl.PDF",
+      "dxf": "Drawings\\FD-004_vibratory_bowl.DXF",
+      "slddrw_bytes": 98146,
+      "pdf_bytes": 115929,
+      "dxf_bytes": 53707
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-006_linear_track.SLDPRT",
+      "slddrw": "Drawings\\FD-006_linear_track.SLDDRW",
+      "pdf": "Drawings\\FD-006_linear_track.PDF",
+      "dxf": "Drawings\\FD-006_linear_track.DXF",
+      "slddrw_bytes": 88455,
+      "pdf_bytes": 112823,
+      "dxf_bytes": 55017
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-008_separator_block.SLDPRT",
+      "slddrw": "Drawings\\FD-008_separator_block.SLDDRW",
+      "pdf": "Drawings\\FD-008_separator_block.PDF",
+      "dxf": "Drawings\\FD-008_separator_block.DXF",
+      "slddrw_bytes": 92729,
+      "pdf_bytes": 114623,
+      "dxf_bytes": 59926
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-010_vblock_base.SLDPRT",
+      "slddrw": "Drawings\\FD-010_vblock_base.SLDDRW",
+      "pdf": "Drawings\\FD-010_vblock_base.PDF",
+      "dxf": "Drawings\\FD-010_vblock_base.DXF",
+      "slddrw_bytes": 92493,
+      "pdf_bytes": 114522,
+      "dxf_bytes": 59967
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-011_vblock_jaw.SLDPRT",
+      "slddrw": "Drawings\\FD-011_vblock_jaw.SLDDRW",
+      "pdf": "Drawings\\FD-011_vblock_jaw.PDF",
+      "dxf": "Drawings\\FD-011_vblock_jaw.DXF",
+      "slddrw_bytes": 88495,
+      "pdf_bytes": 113086,
+      "dxf_bytes": 55802
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-012_sensor_bracket.SLDPRT",
+      "slddrw": "Drawings\\FD-012_sensor_bracket.SLDDRW",
+      "pdf": "Drawings\\FD-012_sensor_bracket.PDF",
+      "dxf": "Drawings\\FD-012_sensor_bracket.DXF",
+      "slddrw_bytes": 94208,
+      "pdf_bytes": 114535,
+      "dxf_bytes": 60725
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-015_diverter_chute.SLDPRT",
+      "slddrw": "Drawings\\FD-015_diverter_chute.SLDDRW",
+      "pdf": "Drawings\\FD-015_diverter_chute.PDF",
+      "dxf": "Drawings\\FD-015_diverter_chute.DXF",
+      "slddrw_bytes": 86180,
+      "pdf_bytes": 112663,
+      "dxf_bytes": 53302
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-016_guard_panel.SLDPRT",
+      "slddrw": "Drawings\\FD-016_guard_panel.SLDDRW",
+      "pdf": "Drawings\\FD-016_guard_panel.PDF",
+      "dxf": "Drawings\\FD-016_guard_panel.DXF",
+      "slddrw_bytes": 90602,
+      "pdf_bytes": 113163,
+      "dxf_bytes": 59677
+    },
+    {
+      "source": "SolidWorks\\parts\\FD-017_workpiece_shaft.SLDPRT",
+      "slddrw": "Drawings\\FD-017_workpiece_shaft.SLDDRW",
+      "pdf": "Drawings\\FD-017_workpiece_shaft.PDF",
+      "dxf": "Drawings\\FD-017_workpiece_shaft.DXF",
+      "slddrw_bytes": 92965,
+      "pdf_bytes": 115031,
+      "dxf_bytes": 55009
+    },
+    {
+      "source": "SolidWorks\\assemblies\\FD-000_main_assembly.SLDASM",
+      "slddrw": "Drawings\\FD-000_main_assembly.SLDDRW",
+      "pdf": "Drawings\\FD-000_main_assembly.PDF",
+      "dxf": "Drawings\\FD-000_main_assembly.DXF",
+      "slddrw_bytes": 220594,
+      "pdf_bytes": 116823,
+      "dxf_bytes": 108380
+    }
+  ],
+  "errors": []
+}

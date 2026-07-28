@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "main_assembly": "SolidWorks\\assemblies\\FD-000_main_assembly.SLDASM",
+  "main_opened": true,
+  "main_component_count": 29,
+  "main_references_exist": true,
+  "main_references_within_project": true,
+  "drawing_count": 12,
+  "drawings_opened": true,
+  "note": "Validated after regenerating assemblies and drawings inside the final delivery path."
+}

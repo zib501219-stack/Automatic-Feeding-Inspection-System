@@ -1,6 +1,0 @@
-﻿command,required_conditions,mutually_exclusive_with,purpose
-transfer_extend,part_present AND separator_closed AND nest_clear,"camera_trigger, transfer_retract",prevent double feed and motion blur
-camera_trigger,transfer_extended AND clamp_confirmed,transfer_retract,inspection only at stable position
-transfer_retract,inspection_complete OR reject_timeout,transfer_extend,return before next feed
-front_gate_open,rear_gate_closed AND transfer_home,rear_gate_open,release one part only
-rear_gate_open,front_gate_closed,front_gate_open,refill escapement pocket

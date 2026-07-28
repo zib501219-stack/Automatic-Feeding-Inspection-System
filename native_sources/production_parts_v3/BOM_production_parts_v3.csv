@@ -1,5 +1,0 @@
-﻿item,part_no,part_name,qty,material,overall_mm,note,step,dxf,pdf
-1,FI-009,guide_rail_clamp_plate,8,SUS304,80x32x6,Adjustable guide-rail clamp plate,step/FI-009_guide_rail_clamp_plate.step,dxf/FI-009_guide_rail_clamp_plate.dxf,pdf/FI-009_guide_rail_clamp_plate.pdf
-2,FI-010,cylinder_rod_clevis,4,45 steel,52x34x46,Cylinder rod clevis bracket with 12 mm pin,step/FI-010_cylinder_rod_clevis.step,dxf/FI-010_cylinder_rod_clevis.dxf,pdf/FI-010_cylinder_rod_clevis.pdf
-3,FI-011,valve_manifold_mounting_plate,1,Q235B,260x120x8,Eight-station valve-manifold mounting plate,step/FI-011_valve_manifold_mounting_plate.step,dxf/FI-011_valve_manifold_mounting_plate.dxf,pdf/FI-011_valve_manifold_mounting_plate.pdf
-4,FI-012,backlight_mount_bracket,2,5052-H32,140x60x90,Inspection backlight adjustment bracket,step/FI-012_backlight_mount_bracket.step,dxf/FI-012_backlight_mount_bracket.dxf,pdf/FI-012_backlight_mount_bracket.pdf
