@@ -1,9 +1,9 @@
 {
   "path": "STEP\\parts\\FD-009_separator_cylinder.STEP",
-  "bytes": 42796,
+  "bytes": 42770,
   "status": "pass",
   "errors": 0,
   "open_method": "SolidWorks STEP import",
   "title": "FD-009_separator_cylinder.SLDPRT",
-  "seconds": 4.968
+  "seconds": 4.185
 }

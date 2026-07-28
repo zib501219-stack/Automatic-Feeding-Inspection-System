@@ -1,10 +1,10 @@
 {
   "path": "STEP\\assemblies\\FD-200_feed_position_module.STEP",
-  "bytes": 348255,
+  "bytes": 356918,
   "status": "pass",
   "insert_error": 0,
   "component_name": "FD-200_feed_position_module.STEP-1",
   "open_method": "SolidWorks 3D Interconnect assembly insertion",
   "title": "装配体1",
-  "seconds": 6.428
+  "seconds": 5.823
 }

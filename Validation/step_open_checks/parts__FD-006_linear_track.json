@@ -1,9 +1,9 @@
 {
   "path": "STEP\\parts\\FD-006_linear_track.STEP",
-  "bytes": 67305,
+  "bytes": 67287,
   "status": "pass",
   "errors": 0,
   "open_method": "SolidWorks STEP import",
   "title": "FD-006_linear_track.SLDPRT",
-  "seconds": 5.207
+  "seconds": 4.371
 }

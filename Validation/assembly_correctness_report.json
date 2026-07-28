@@ -1,0 +1,57 @@
+{
+  "status": "pass",
+  "project": "Automatic-Feeding-Inspection-System",
+  "main_assembly": "FD-000_main_assembly.SLDASM",
+  "main_modules": [
+    {
+      "component": "FD-200_feed_position_module-1",
+      "fixed": false,
+      "mate_count": 3
+    },
+    {
+      "component": "FD-100_frame_bowl_module-1",
+      "fixed": true,
+      "mate_count": 0
+    },
+    {
+      "component": "FD-300_inspection_divert_module-1",
+      "fixed": false,
+      "mate_count": 3
+    }
+  ],
+  "subassemblies": [
+    {
+      "assembly": "FD-100_frame_bowl_module.SLDASM",
+      "status": "pass",
+      "component_count": 8,
+      "all_components_fixed": true
+    },
+    {
+      "assembly": "FD-200_feed_position_module.SLDASM",
+      "status": "pass",
+      "component_count": 12,
+      "all_components_fixed": true
+    },
+    {
+      "assembly": "FD-300_inspection_divert_module.SLDASM",
+      "status": "pass",
+      "component_count": 6,
+      "all_components_fixed": true
+    }
+  ],
+  "joint_or_support_checks": [
+    {
+      "name": "table_to_support",
+      "gap_mm": 0.0
+    },
+    {
+      "name": "support_to_track",
+      "gap_mm": 0.0
+    },
+    {
+      "name": "workpiece_center_height",
+      "height_mm": 780
+    }
+  ],
+  "validation_boundary": "Digital assembly positioning and constraint validation; not physical assembly evidence."
+}

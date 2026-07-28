@@ -17,8 +17,8 @@
       "native": "SolidWorks\\parts\\FD-001_machine_table.SLDPRT",
       "step": "STEP\\parts\\FD-001_machine_table.STEP",
       "png": "Screenshots\\FD-001_machine_table.png",
-      "native_bytes": 85469,
-      "step_bytes": 25587,
+      "native_bytes": 86025,
+      "step_bytes": 25594,
       "png_bytes": 104229,
       "features": [
         "verified in original generation report"
@@ -30,7 +30,7 @@
       "native": "SolidWorks\\parts\\FD-002_frame_leg.SLDPRT",
       "step": "STEP\\parts\\FD-002_frame_leg.STEP",
       "png": "Screenshots\\FD-002_frame_leg.png",
-      "native_bytes": 65037,
+      "native_bytes": 64546,
       "step_bytes": 37707,
       "png_bytes": 75576,
       "features": [
@@ -43,8 +43,8 @@
       "native": "SolidWorks\\parts\\FD-003_bowl_base.SLDPRT",
       "step": "STEP\\parts\\FD-003_bowl_base.STEP",
       "png": "Screenshots\\FD-003_bowl_base.png",
-      "native_bytes": 105271,
-      "step_bytes": 63930,
+      "native_bytes": 104565,
+      "step_bytes": 63928,
       "png_bytes": 108915,
       "features": [
         "verified in original generation report"
@@ -56,9 +56,9 @@
       "native": "SolidWorks\\parts\\FD-004_vibratory_bowl.SLDPRT",
       "step": "STEP\\parts\\FD-004_vibratory_bowl.STEP",
       "png": "Screenshots\\FD-004_vibratory_bowl.png",
-      "native_bytes": 112054,
-      "step_bytes": 29118,
-      "png_bytes": 112300,
+      "native_bytes": 113628,
+      "step_bytes": 29117,
+      "png_bytes": 114832,
       "features": [
         "verified in original generation report"
       ]
@@ -69,9 +69,9 @@
       "native": "SolidWorks\\parts\\FD-005_bowl_drive.SLDPRT",
       "step": "STEP\\parts\\FD-005_bowl_drive.STEP",
       "png": "Screenshots\\FD-005_bowl_drive.png",
-      "native_bytes": 93549,
-      "step_bytes": 47803,
-      "png_bytes": 98440,
+      "native_bytes": 89096,
+      "step_bytes": 36980,
+      "png_bytes": 91090,
       "features": [
         "verified in original generation report"
       ]
@@ -82,8 +82,8 @@
       "native": "SolidWorks\\parts\\FD-006_linear_track.SLDPRT",
       "step": "STEP\\parts\\FD-006_linear_track.STEP",
       "png": "Screenshots\\FD-006_linear_track.png",
-      "native_bytes": 99558,
-      "step_bytes": 67305,
+      "native_bytes": 98484,
+      "step_bytes": 67287,
       "png_bytes": 121029,
       "features": [
         "verified in original generation report"
@@ -95,9 +95,9 @@
       "native": "SolidWorks\\parts\\FD-007_track_support.SLDPRT",
       "step": "STEP\\parts\\FD-007_track_support.STEP",
       "png": "Screenshots\\FD-007_track_support.png",
-      "native_bytes": 98251,
-      "step_bytes": 46777,
-      "png_bytes": 107911,
+      "native_bytes": 99683,
+      "step_bytes": 55186,
+      "png_bytes": 106993,
       "features": [
         "verified in original generation report"
       ]
@@ -108,8 +108,8 @@
       "native": "SolidWorks\\parts\\FD-008_separator_block.SLDPRT",
       "step": "STEP\\parts\\FD-008_separator_block.STEP",
       "png": "Screenshots\\FD-008_separator_block.png",
-      "native_bytes": 98819,
-      "step_bytes": 46771,
+      "native_bytes": 99103,
+      "step_bytes": 46760,
       "png_bytes": 107309,
       "features": [
         "verified in original generation report"
@@ -121,8 +121,8 @@
       "native": "SolidWorks\\parts\\FD-009_separator_cylinder.SLDPRT",
       "step": "STEP\\parts\\FD-009_separator_cylinder.STEP",
       "png": "Screenshots\\FD-009_separator_cylinder.png",
-      "native_bytes": 75400,
-      "step_bytes": 42796,
+      "native_bytes": 75286,
+      "step_bytes": 42770,
       "png_bytes": 88498,
       "features": [
         "verified in original generation report"
@@ -134,8 +134,8 @@
       "native": "SolidWorks\\parts\\FD-010_vblock_base.SLDPRT",
       "step": "STEP\\parts\\FD-010_vblock_base.STEP",
       "png": "Screenshots\\FD-010_vblock_base.png",
-      "native_bytes": 99455,
-      "step_bytes": 47281,
+      "native_bytes": 99289,
+      "step_bytes": 47257,
       "png_bytes": 108156,
       "features": [
         "verified in original generation report"
@@ -147,8 +147,8 @@
       "native": "SolidWorks\\parts\\FD-011_vblock_jaw.SLDPRT",
       "step": "STEP\\parts\\FD-011_vblock_jaw.STEP",
       "png": "Screenshots\\FD-011_vblock_jaw.png",
-      "native_bytes": 86754,
-      "step_bytes": 36163,
+      "native_bytes": 86694,
+      "step_bytes": 36147,
       "png_bytes": 104849,
       "features": [
         "verified in original generation report"
@@ -160,8 +160,8 @@
       "native": "SolidWorks\\parts\\FD-012_sensor_bracket.SLDPRT",
       "step": "STEP\\parts\\FD-012_sensor_bracket.STEP",
       "png": "Screenshots\\FD-012_sensor_bracket.png",
-      "native_bytes": 100760,
-      "step_bytes": 56068,
+      "native_bytes": 100015,
+      "step_bytes": 56059,
       "png_bytes": 112494,
       "features": [
         "verified in original generation report"
@@ -173,8 +173,8 @@
       "native": "SolidWorks\\parts\\FD-013_sensor_body.SLDPRT",
       "step": "STEP\\parts\\FD-013_sensor_body.STEP",
       "png": "Screenshots\\FD-013_sensor_body.png",
-      "native_bytes": 73767,
-      "step_bytes": 42745,
+      "native_bytes": 74117,
+      "step_bytes": 42736,
       "png_bytes": 86105,
       "features": [
         "verified in original generation report"
@@ -186,8 +186,8 @@
       "native": "SolidWorks\\parts\\FD-014_pusher_cylinder.SLDPRT",
       "step": "STEP\\parts\\FD-014_pusher_cylinder.STEP",
       "png": "Screenshots\\FD-014_pusher_cylinder.png",
-      "native_bytes": 74716,
-      "step_bytes": 42771,
+      "native_bytes": 74322,
+      "step_bytes": 42766,
       "png_bytes": 87797,
       "features": [
         "verified in original generation report"
@@ -199,8 +199,8 @@
       "native": "SolidWorks\\parts\\FD-015_diverter_chute.SLDPRT",
       "step": "STEP\\parts\\FD-015_diverter_chute.STEP",
       "png": "Screenshots\\FD-015_diverter_chute.png",
-      "native_bytes": 97766,
-      "step_bytes": 44672,
+      "native_bytes": 97673,
+      "step_bytes": 44650,
       "png_bytes": 125335,
       "features": [
         "verified in original generation report"
@@ -212,8 +212,8 @@
       "native": "SolidWorks\\parts\\FD-016_guard_panel.SLDPRT",
       "step": "STEP\\parts\\FD-016_guard_panel.STEP",
       "png": "Screenshots\\FD-016_guard_panel.png",
-      "native_bytes": 91163,
-      "step_bytes": 50865,
+      "native_bytes": 91008,
+      "step_bytes": 50850,
       "png_bytes": 115598,
       "features": [
         "verified in original generation report"
@@ -225,8 +225,8 @@
       "native": "SolidWorks\\parts\\FD-017_workpiece_shaft.SLDPRT",
       "step": "STEP\\parts\\FD-017_workpiece_shaft.STEP",
       "png": "Screenshots\\FD-017_workpiece_shaft.png",
-      "native_bytes": 74166,
-      "step_bytes": 23368,
+      "native_bytes": 73910,
+      "step_bytes": 23348,
       "png_bytes": 87408,
       "features": [
         "verified in original generation report"
@@ -249,9 +249,19 @@
         "bowl_drive",
         "bowl"
       ],
-      "native_bytes": 115488,
-      "step_bytes": 230398,
-      "png_bytes": 121623
+      "fixed_components": [
+        "table",
+        "leg_fl",
+        "leg_fr",
+        "leg_rl",
+        "leg_rr",
+        "bowl_base",
+        "bowl_drive",
+        "bowl"
+      ],
+      "native_bytes": 113527,
+      "step_bytes": 219298,
+      "png_bytes": 119702
     },
     {
       "name": "FD-200_feed_position_module",
@@ -272,9 +282,23 @@
         "workpiece_feed_1",
         "workpiece_feed_2"
       ],
-      "native_bytes": 140597,
-      "step_bytes": 348134,
-      "png_bytes": 161441
+      "fixed_components": [
+        "linear_track",
+        "track_support_1",
+        "track_support_2",
+        "track_support_3",
+        "separator_block",
+        "separator_cylinder",
+        "vblock_base",
+        "vjaw_left",
+        "vjaw_right",
+        "workpiece_check",
+        "workpiece_feed_1",
+        "workpiece_feed_2"
+      ],
+      "native_bytes": 131176,
+      "step_bytes": 356918,
+      "png_bytes": 137337
     },
     {
       "name": "FD-300_inspection_divert_module",
@@ -289,9 +313,17 @@
         "guard_front",
         "guard_rear"
       ],
-      "native_bytes": 114928,
-      "step_bytes": 260051,
-      "png_bytes": 143588
+      "fixed_components": [
+        "sensor_bracket",
+        "sensor",
+        "pusher_cylinder",
+        "diverter_chute",
+        "guard_front",
+        "guard_rear"
+      ],
+      "native_bytes": 118122,
+      "step_bytes": 260090,
+      "png_bytes": 150667
     }
   ],
   "main_assembly": {
@@ -304,9 +336,20 @@
       "FD-200_feed_position_module",
       "FD-300_inspection_divert_module"
     ],
-    "native_bytes": 196515,
-    "step_bytes": 858088,
-    "png_bytes": 141529
+    "fixed_components": [
+      "FD-100_frame_bowl_module"
+    ],
+    "mates": [
+      "模块定位_01_FD-200_feed_position_module_01_前视基准面",
+      "模块定位_01_FD-200_feed_position_module_02_上视基准面",
+      "模块定位_01_FD-200_feed_position_module_03_右视基准面",
+      "模块定位_02_FD-300_inspection_divert_module_01_前视基准面",
+      "模块定位_02_FD-300_inspection_divert_module_02_上视基准面",
+      "模块定位_02_FD-300_inspection_divert_module_03_右视基准面"
+    ],
+    "native_bytes": 200738,
+    "step_bytes": 855447,
+    "png_bytes": 146401
   },
   "drawings": [
     {
@@ -314,8 +357,8 @@
       "slddrw": "Drawings\\FD-001_machine_table.SLDDRW",
       "pdf": "Drawings\\FD-001_machine_table.PDF",
       "dxf": "Drawings\\FD-001_machine_table.DXF",
-      "slddrw_bytes": 83377,
-      "pdf_bytes": 112608,
+      "slddrw_bytes": 83696,
+      "pdf_bytes": 112607,
       "dxf_bytes": 52022
     },
     {
@@ -323,8 +366,8 @@
       "slddrw": "Drawings\\FD-003_bowl_base.SLDDRW",
       "pdf": "Drawings\\FD-003_bowl_base.PDF",
       "dxf": "Drawings\\FD-003_bowl_base.DXF",
-      "slddrw_bytes": 99924,
-      "pdf_bytes": 115164,
+      "slddrw_bytes": 100769,
+      "pdf_bytes": 115163,
       "dxf_bytes": 67745
     },
     {
@@ -332,44 +375,44 @@
       "slddrw": "Drawings\\FD-004_vibratory_bowl.SLDDRW",
       "pdf": "Drawings\\FD-004_vibratory_bowl.PDF",
       "dxf": "Drawings\\FD-004_vibratory_bowl.DXF",
-      "slddrw_bytes": 98146,
-      "pdf_bytes": 115929,
-      "dxf_bytes": 53707
+      "slddrw_bytes": 98305,
+      "pdf_bytes": 115668,
+      "dxf_bytes": 53722
     },
     {
       "source": "SolidWorks\\parts\\FD-006_linear_track.SLDPRT",
       "slddrw": "Drawings\\FD-006_linear_track.SLDDRW",
       "pdf": "Drawings\\FD-006_linear_track.PDF",
       "dxf": "Drawings\\FD-006_linear_track.DXF",
-      "slddrw_bytes": 88455,
-      "pdf_bytes": 112823,
-      "dxf_bytes": 55017
+      "slddrw_bytes": 88786,
+      "pdf_bytes": 112822,
+      "dxf_bytes": 55016
     },
     {
       "source": "SolidWorks\\parts\\FD-008_separator_block.SLDPRT",
       "slddrw": "Drawings\\FD-008_separator_block.SLDDRW",
       "pdf": "Drawings\\FD-008_separator_block.PDF",
       "dxf": "Drawings\\FD-008_separator_block.DXF",
-      "slddrw_bytes": 92729,
-      "pdf_bytes": 114623,
-      "dxf_bytes": 59926
+      "slddrw_bytes": 92391,
+      "pdf_bytes": 114626,
+      "dxf_bytes": 59924
     },
     {
       "source": "SolidWorks\\parts\\FD-010_vblock_base.SLDPRT",
       "slddrw": "Drawings\\FD-010_vblock_base.SLDDRW",
       "pdf": "Drawings\\FD-010_vblock_base.PDF",
       "dxf": "Drawings\\FD-010_vblock_base.DXF",
-      "slddrw_bytes": 92493,
-      "pdf_bytes": 114522,
-      "dxf_bytes": 59967
+      "slddrw_bytes": 92841,
+      "pdf_bytes": 114519,
+      "dxf_bytes": 59974
     },
     {
       "source": "SolidWorks\\parts\\FD-011_vblock_jaw.SLDPRT",
       "slddrw": "Drawings\\FD-011_vblock_jaw.SLDDRW",
       "pdf": "Drawings\\FD-011_vblock_jaw.PDF",
       "dxf": "Drawings\\FD-011_vblock_jaw.DXF",
-      "slddrw_bytes": 88495,
-      "pdf_bytes": 113086,
+      "slddrw_bytes": 88063,
+      "pdf_bytes": 113090,
       "dxf_bytes": 55802
     },
     {
@@ -377,17 +420,17 @@
       "slddrw": "Drawings\\FD-012_sensor_bracket.SLDDRW",
       "pdf": "Drawings\\FD-012_sensor_bracket.PDF",
       "dxf": "Drawings\\FD-012_sensor_bracket.DXF",
-      "slddrw_bytes": 94208,
-      "pdf_bytes": 114535,
-      "dxf_bytes": 60725
+      "slddrw_bytes": 94531,
+      "pdf_bytes": 114529,
+      "dxf_bytes": 60726
     },
     {
       "source": "SolidWorks\\parts\\FD-015_diverter_chute.SLDPRT",
       "slddrw": "Drawings\\FD-015_diverter_chute.SLDDRW",
       "pdf": "Drawings\\FD-015_diverter_chute.PDF",
       "dxf": "Drawings\\FD-015_diverter_chute.DXF",
-      "slddrw_bytes": 86180,
-      "pdf_bytes": 112663,
+      "slddrw_bytes": 85865,
+      "pdf_bytes": 112666,
       "dxf_bytes": 53302
     },
     {
@@ -395,8 +438,8 @@
       "slddrw": "Drawings\\FD-016_guard_panel.SLDDRW",
       "pdf": "Drawings\\FD-016_guard_panel.PDF",
       "dxf": "Drawings\\FD-016_guard_panel.DXF",
-      "slddrw_bytes": 90602,
-      "pdf_bytes": 113163,
+      "slddrw_bytes": 91344,
+      "pdf_bytes": 113165,
       "dxf_bytes": 59677
     },
     {
@@ -404,18 +447,18 @@
       "slddrw": "Drawings\\FD-017_workpiece_shaft.SLDDRW",
       "pdf": "Drawings\\FD-017_workpiece_shaft.PDF",
       "dxf": "Drawings\\FD-017_workpiece_shaft.DXF",
-      "slddrw_bytes": 92965,
-      "pdf_bytes": 115031,
-      "dxf_bytes": 55009
+      "slddrw_bytes": 92485,
+      "pdf_bytes": 115033,
+      "dxf_bytes": 55011
     },
     {
       "source": "SolidWorks\\assemblies\\FD-000_main_assembly.SLDASM",
       "slddrw": "Drawings\\FD-000_main_assembly.SLDDRW",
       "pdf": "Drawings\\FD-000_main_assembly.PDF",
       "dxf": "Drawings\\FD-000_main_assembly.DXF",
-      "slddrw_bytes": 220594,
-      "pdf_bytes": 116823,
-      "dxf_bytes": 108380
+      "slddrw_bytes": 223834,
+      "pdf_bytes": 117518,
+      "dxf_bytes": 107671
     }
   ],
   "errors": []

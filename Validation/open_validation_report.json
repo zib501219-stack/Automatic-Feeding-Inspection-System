@@ -1,17 +1,17 @@
 {
-  "project": "02_stepped_shaft_feeding_inspection",
-  "total": 119,
-  "passed": 119,
+  "project": "Automatic-Feeding-Inspection-System",
+  "total": 121,
+  "passed": 121,
   "failed": 0,
   "solidworks_checks": 33,
-  "secondary_checks": 86,
+  "secondary_checks": 88,
   "results": [
     {
       "path": "Drawings\\FD-000_main_assembly.SLDDRW",
       "relative": "Drawings\\FD-000_main_assembly.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 221273,
+      "bytes": 223834,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -22,7 +22,7 @@
       "relative": "Drawings\\FD-001_machine_table.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 84354,
+      "bytes": 83696,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -33,7 +33,7 @@
       "relative": "Drawings\\FD-003_bowl_base.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 99902,
+      "bytes": 100769,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -44,7 +44,7 @@
       "relative": "Drawings\\FD-004_vibratory_bowl.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 98608,
+      "bytes": 98305,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -55,7 +55,7 @@
       "relative": "Drawings\\FD-006_linear_track.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 89960,
+      "bytes": 88786,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -66,7 +66,7 @@
       "relative": "Drawings\\FD-008_separator_block.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 93143,
+      "bytes": 92391,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -77,7 +77,7 @@
       "relative": "Drawings\\FD-010_vblock_base.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 92662,
+      "bytes": 92841,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -88,7 +88,7 @@
       "relative": "Drawings\\FD-011_vblock_jaw.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 89294,
+      "bytes": 88063,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -99,7 +99,7 @@
       "relative": "Drawings\\FD-012_sensor_bracket.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 94836,
+      "bytes": 94531,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -110,7 +110,7 @@
       "relative": "Drawings\\FD-015_diverter_chute.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 85957,
+      "bytes": 85865,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -121,7 +121,7 @@
       "relative": "Drawings\\FD-016_guard_panel.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 90774,
+      "bytes": 91344,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -132,7 +132,7 @@
       "relative": "Drawings\\FD-017_workpiece_shaft.SLDDRW",
       "kind": "native",
       "doc_type": 3,
-      "bytes": 92528,
+      "bytes": 92485,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -143,7 +143,7 @@
       "relative": "SolidWorks\\assemblies\\FD-000_main_assembly.SLDASM",
       "kind": "native",
       "doc_type": 2,
-      "bytes": 196738,
+      "bytes": 200738,
       "errors": 0,
       "warnings": 32,
       "opened": true,
@@ -156,7 +156,7 @@
       "relative": "SolidWorks\\assemblies\\FD-100_frame_bowl_module.SLDASM",
       "kind": "native",
       "doc_type": 2,
-      "bytes": 114439,
+      "bytes": 113527,
       "errors": 0,
       "warnings": 32,
       "opened": true,
@@ -169,7 +169,7 @@
       "relative": "SolidWorks\\assemblies\\FD-200_feed_position_module.SLDASM",
       "kind": "native",
       "doc_type": 2,
-      "bytes": 141682,
+      "bytes": 131176,
       "errors": 0,
       "warnings": 32,
       "opened": true,
@@ -182,7 +182,7 @@
       "relative": "SolidWorks\\assemblies\\FD-300_inspection_divert_module.SLDASM",
       "kind": "native",
       "doc_type": 2,
-      "bytes": 114767,
+      "bytes": 118122,
       "errors": 0,
       "warnings": 32,
       "opened": true,
@@ -195,7 +195,7 @@
       "relative": "SolidWorks\\parts\\FD-001_machine_table.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 85469,
+      "bytes": 86025,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -213,7 +213,7 @@
       "relative": "SolidWorks\\parts\\FD-002_frame_leg.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 65037,
+      "bytes": 64546,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -231,7 +231,7 @@
       "relative": "SolidWorks\\parts\\FD-003_bowl_base.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 105271,
+      "bytes": 104565,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -249,7 +249,7 @@
       "relative": "SolidWorks\\parts\\FD-004_vibratory_bowl.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 112054,
+      "bytes": 113628,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -269,7 +269,7 @@
       "relative": "SolidWorks\\parts\\FD-005_bowl_drive.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 93549,
+      "bytes": 89096,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -287,7 +287,7 @@
       "relative": "SolidWorks\\parts\\FD-006_linear_track.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 99558,
+      "bytes": 98484,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -305,7 +305,7 @@
       "relative": "SolidWorks\\parts\\FD-007_track_support.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 98251,
+      "bytes": 99683,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -323,7 +323,7 @@
       "relative": "SolidWorks\\parts\\FD-008_separator_block.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 98819,
+      "bytes": 99103,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -341,7 +341,7 @@
       "relative": "SolidWorks\\parts\\FD-009_separator_cylinder.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 75400,
+      "bytes": 75286,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -359,7 +359,7 @@
       "relative": "SolidWorks\\parts\\FD-010_vblock_base.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 99455,
+      "bytes": 99289,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -377,7 +377,7 @@
       "relative": "SolidWorks\\parts\\FD-011_vblock_jaw.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 86754,
+      "bytes": 86694,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -395,7 +395,7 @@
       "relative": "SolidWorks\\parts\\FD-012_sensor_bracket.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 100760,
+      "bytes": 100015,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -413,7 +413,7 @@
       "relative": "SolidWorks\\parts\\FD-013_sensor_body.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 73767,
+      "bytes": 74117,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -431,7 +431,7 @@
       "relative": "SolidWorks\\parts\\FD-014_pusher_cylinder.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 74716,
+      "bytes": 74322,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -449,7 +449,7 @@
       "relative": "SolidWorks\\parts\\FD-015_diverter_chute.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 97766,
+      "bytes": 97673,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -467,7 +467,7 @@
       "relative": "SolidWorks\\parts\\FD-016_guard_panel.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 91163,
+      "bytes": 91008,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -485,7 +485,7 @@
       "relative": "SolidWorks\\parts\\FD-017_workpiece_shaft.SLDPRT",
       "kind": "native",
       "doc_type": 1,
-      "bytes": 74166,
+      "bytes": 73910,
       "errors": 0,
       "warnings": 0,
       "opened": true,
@@ -528,40 +528,40 @@
     {
       "path": "Documents\\parameters.csv",
       "relative": "Documents\\parameters.csv",
-      "bytes": 4389,
+      "bytes": 4390,
       "rows": 18,
       "status": "pass"
     },
     {
       "path": "Documents\\阶梯轴自动上料与检测设备_设计说明书.pdf",
       "relative": "Documents\\阶梯轴自动上料与检测设备_设计说明书.pdf",
-      "bytes": 640172,
+      "bytes": 644703,
       "pages": 8,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-000_main_assembly.DXF",
       "relative": "Drawings\\FD-000_main_assembly.DXF",
-      "bytes": 108379,
+      "bytes": 107671,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-000_main_assembly.PDF",
       "relative": "Drawings\\FD-000_main_assembly.PDF",
-      "bytes": 116876,
+      "bytes": 117518,
       "pages": 1,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-001_machine_table.DXF",
       "relative": "Drawings\\FD-001_machine_table.DXF",
-      "bytes": 52018,
+      "bytes": 52022,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-001_machine_table.PDF",
       "relative": "Drawings\\FD-001_machine_table.PDF",
-      "bytes": 112605,
+      "bytes": 112607,
       "pages": 1,
       "status": "pass"
     },
@@ -574,53 +574,53 @@
     {
       "path": "Drawings\\FD-003_bowl_base.PDF",
       "relative": "Drawings\\FD-003_bowl_base.PDF",
-      "bytes": 115165,
+      "bytes": 115163,
       "pages": 1,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-004_vibratory_bowl.DXF",
       "relative": "Drawings\\FD-004_vibratory_bowl.DXF",
-      "bytes": 53710,
+      "bytes": 53722,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-004_vibratory_bowl.PDF",
       "relative": "Drawings\\FD-004_vibratory_bowl.PDF",
-      "bytes": 115931,
+      "bytes": 115668,
       "pages": 1,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-006_linear_track.DXF",
       "relative": "Drawings\\FD-006_linear_track.DXF",
-      "bytes": 55017,
+      "bytes": 55016,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-006_linear_track.PDF",
       "relative": "Drawings\\FD-006_linear_track.PDF",
-      "bytes": 112823,
+      "bytes": 112822,
       "pages": 1,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-008_separator_block.DXF",
       "relative": "Drawings\\FD-008_separator_block.DXF",
-      "bytes": 59927,
+      "bytes": 59924,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-008_separator_block.PDF",
       "relative": "Drawings\\FD-008_separator_block.PDF",
-      "bytes": 114625,
+      "bytes": 114626,
       "pages": 1,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-010_vblock_base.DXF",
       "relative": "Drawings\\FD-010_vblock_base.DXF",
-      "bytes": 59976,
+      "bytes": 59974,
       "status": "pass"
     },
     {
@@ -633,13 +633,13 @@
     {
       "path": "Drawings\\FD-011_vblock_jaw.DXF",
       "relative": "Drawings\\FD-011_vblock_jaw.DXF",
-      "bytes": 55801,
+      "bytes": 55802,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-011_vblock_jaw.PDF",
       "relative": "Drawings\\FD-011_vblock_jaw.PDF",
-      "bytes": 113095,
+      "bytes": 113090,
       "pages": 1,
       "status": "pass"
     },
@@ -652,33 +652,33 @@
     {
       "path": "Drawings\\FD-012_sensor_bracket.PDF",
       "relative": "Drawings\\FD-012_sensor_bracket.PDF",
-      "bytes": 114533,
+      "bytes": 114529,
       "pages": 1,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-015_diverter_chute.DXF",
       "relative": "Drawings\\FD-015_diverter_chute.DXF",
-      "bytes": 53303,
+      "bytes": 53302,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-015_diverter_chute.PDF",
       "relative": "Drawings\\FD-015_diverter_chute.PDF",
-      "bytes": 112665,
+      "bytes": 112666,
       "pages": 1,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-016_guard_panel.DXF",
       "relative": "Drawings\\FD-016_guard_panel.DXF",
-      "bytes": 59675,
+      "bytes": 59677,
       "status": "pass"
     },
     {
       "path": "Drawings\\FD-016_guard_panel.PDF",
       "relative": "Drawings\\FD-016_guard_panel.PDF",
-      "bytes": 113159,
+      "bytes": 113165,
       "pages": 1,
       "status": "pass"
     },
@@ -691,20 +691,20 @@
     {
       "path": "Drawings\\FD-017_workpiece_shaft.PDF",
       "relative": "Drawings\\FD-017_workpiece_shaft.PDF",
-      "bytes": 115032,
+      "bytes": 115033,
       "pages": 1,
       "status": "pass"
     },
     {
       "path": "README.md",
       "relative": "README.md",
-      "bytes": 1438,
+      "bytes": 1878,
       "status": "pass"
     },
     {
       "path": "Screenshots\\FD-000_main_assembly.png",
       "relative": "Screenshots\\FD-000_main_assembly.png",
-      "bytes": 141342,
+      "bytes": 146401,
       "image_format": "PNG",
       "status": "pass"
     },
@@ -732,14 +732,14 @@
     {
       "path": "Screenshots\\FD-004_vibratory_bowl.png",
       "relative": "Screenshots\\FD-004_vibratory_bowl.png",
-      "bytes": 112300,
+      "bytes": 114832,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Screenshots\\FD-005_bowl_drive.png",
       "relative": "Screenshots\\FD-005_bowl_drive.png",
-      "bytes": 98440,
+      "bytes": 91090,
       "image_format": "PNG",
       "status": "pass"
     },
@@ -753,7 +753,7 @@
     {
       "path": "Screenshots\\FD-007_track_support.png",
       "relative": "Screenshots\\FD-007_track_support.png",
-      "bytes": 107911,
+      "bytes": 106993,
       "image_format": "PNG",
       "status": "pass"
     },
@@ -830,109 +830,123 @@
     {
       "path": "Screenshots\\FD-100_frame_bowl_module.png",
       "relative": "Screenshots\\FD-100_frame_bowl_module.png",
-      "bytes": 121945,
+      "bytes": 119702,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Screenshots\\FD-200_feed_position_module.png",
       "relative": "Screenshots\\FD-200_feed_position_module.png",
-      "bytes": 161537,
+      "bytes": 137337,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Screenshots\\FD-300_inspection_divert_module.png",
       "relative": "Screenshots\\FD-300_inspection_divert_module.png",
-      "bytes": 143630,
+      "bytes": 150667,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Sources\\project_manifest.json",
       "relative": "Sources\\project_manifest.json",
-      "bytes": 27691,
+      "bytes": 27865,
+      "status": "pass"
+    },
+    {
+      "path": "Validation\\assembly_correctness_report.json",
+      "relative": "Validation\\assembly_correctness_report.json",
+      "bytes": 1390,
+      "status": "pass"
+    },
+    {
+      "path": "Validation\\assembly_views\\FD-000_main_assembly_front.png",
+      "relative": "Validation\\assembly_views\\FD-000_main_assembly_front.png",
+      "bytes": 77287,
+      "image_format": "PNG",
+      "status": "pass"
+    },
+    {
+      "path": "Validation\\assembly_views\\FD-000_main_assembly_isometric.png",
+      "relative": "Validation\\assembly_views\\FD-000_main_assembly_isometric.png",
+      "bytes": 159143,
+      "image_format": "PNG",
+      "status": "pass"
+    },
+    {
+      "path": "Validation\\assembly_views\\FD-000_main_assembly_right.png",
+      "relative": "Validation\\assembly_views\\FD-000_main_assembly_right.png",
+      "bytes": 76518,
+      "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\book_render\\page-1.png",
       "relative": "Validation\\book_render\\page-1.png",
-      "bytes": 125142,
+      "bytes": 141171,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\book_render\\page-2.png",
       "relative": "Validation\\book_render\\page-2.png",
-      "bytes": 94289,
+      "bytes": 104383,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\book_render\\page-3.png",
       "relative": "Validation\\book_render\\page-3.png",
-      "bytes": 125420,
+      "bytes": 143459,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\book_render\\page-4.png",
       "relative": "Validation\\book_render\\page-4.png",
-      "bytes": 164126,
+      "bytes": 160431,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\book_render\\page-5.png",
       "relative": "Validation\\book_render\\page-5.png",
-      "bytes": 113863,
+      "bytes": 128163,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\book_render\\page-6.png",
       "relative": "Validation\\book_render\\page-6.png",
-      "bytes": 82252,
+      "bytes": 89714,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\book_render\\page-7.png",
       "relative": "Validation\\book_render\\page-7.png",
-      "bytes": 102094,
+      "bytes": 112715,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\book_render\\page-8.png",
       "relative": "Validation\\book_render\\page-8.png",
-      "bytes": 100047,
-      "image_format": "PNG",
-      "status": "pass"
-    },
-    {
-      "path": "Validation\\cad_inspect.json",
-      "relative": "Validation\\cad_inspect.json",
-      "bytes": 4291,
-      "status": "pass"
-    },
-    {
-      "path": "Validation\\FD_cad_snapshot_20260728T152657Z.png",
-      "relative": "Validation\\FD_cad_snapshot_20260728T152657Z.png",
-      "bytes": 321094,
+      "bytes": 109706,
       "image_format": "PNG",
       "status": "pass"
     },
     {
       "path": "Validation\\generation_report.json",
       "relative": "Validation\\generation_report.json",
-      "bytes": 27717,
+      "bytes": 27891,
       "status": "pass"
     },
     {
       "path": "Validation\\open_validation_report.json",
       "relative": "Validation\\open_validation_report.json",
-      "bytes": 56793,
+      "bytes": 36069,
       "status": "pass"
     },
     {
@@ -944,7 +958,7 @@
     {
       "path": "Validation\\step_open_checks\\assemblies__FD-100_frame_bowl_module.json",
       "relative": "Validation\\step_open_checks\\assemblies__FD-100_frame_bowl_module.json",
-      "bytes": 423,
+      "bytes": 422,
       "status": "pass"
     },
     {
@@ -1016,7 +1030,7 @@
     {
       "path": "Validation\\step_open_checks\\parts__FD-010_vblock_base.json",
       "relative": "Validation\\step_open_checks\\parts__FD-010_vblock_base.json",
-      "bytes": 341,
+      "bytes": 339,
       "status": "pass"
     },
     {
@@ -1058,7 +1072,7 @@
     {
       "path": "Validation\\step_open_checks\\parts__FD-017_workpiece_shaft.json",
       "relative": "Validation\\step_open_checks\\parts__FD-017_workpiece_shaft.json",
-      "bytes": 348,
+      "bytes": 349,
       "status": "pass"
     }
   ]

@@ -1,9 +1,9 @@
 {
   "path": "STEP\\parts\\FD-017_workpiece_shaft.STEP",
-  "bytes": 23368,
+  "bytes": 23348,
   "status": "pass",
   "errors": 0,
   "open_method": "SolidWorks STEP import",
   "title": "FD-017_workpiece_shaft.SLDPRT",
-  "seconds": 4.76
+  "seconds": 4.437
 }

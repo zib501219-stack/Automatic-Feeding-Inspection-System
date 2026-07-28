@@ -1,9 +1,9 @@
 {
   "path": "STEP\\parts\\FD-010_vblock_base.STEP",
-  "bytes": 47281,
+  "bytes": 47257,
   "status": "pass",
   "errors": 0,
   "open_method": "SolidWorks STEP import",
   "title": "FD-010_vblock_base.SLDPRT",
-  "seconds": 4.995
+  "seconds": 4.2
 }
