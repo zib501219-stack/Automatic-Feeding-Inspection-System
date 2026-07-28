@@ -1,0 +1,13 @@
+﻿internal_sku,description,qty,make_or_buy,technical_release,material,purchase_basis,supplier,substitution_rule
+FI-001,linear_feeder_track,1,MAKE,RELEASED,6061-T6,native_sources/engineering_package/drawings/FI-001_linear_feeder_track.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-002,separator_cylinder_mount,1,MAKE,RELEASED,Q235B,native_sources/engineering_package/drawings/FI-002_separator_cylinder_mount.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-003,v_locator_base,1,MAKE,RELEASED,45 steel,native_sources/engineering_package/drawings/FI-003_v_locator_base.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-004,transfer_cylinder_bracket,1,MAKE,RELEASED,Q235B,native_sources/engineering_package/drawings/FI-004_transfer_cylinder_bracket.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-005,separator_gate,2,MAKE,RELEASED,45 steel,native_sources/production_parts_v2/pdf/FI-005_separator_gate.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-006,hard_stop_bracket,1,MAKE,RELEASED,Q235B,native_sources/production_parts_v2/pdf/FI-006_hard_stop_bracket.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-007,photo_sensor_bracket,5,MAKE,RELEASED,SUS304,native_sources/production_parts_v2/pdf/FI-007_photo_sensor_bracket.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-008,camera_crossbeam_mount,1,MAKE,RELEASED,6061-T6,native_sources/production_parts_v2/pdf/FI-008_camera_crossbeam_mount.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-009,guide_rail_clamp_plate,8,MAKE,RELEASED,SUS304,native_sources/production_parts_v3/pdf/FI-009_guide_rail_clamp_plate.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-010,cylinder_rod_clevis,4,MAKE,RELEASED,45 steel,native_sources/production_parts_v3/pdf/FI-010_cylinder_rod_clevis.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-011,valve_manifold_mounting_plate,1,MAKE,RELEASED,Q235B,native_sources/production_parts_v3/pdf/FI-011_valve_manifold_mounting_plate.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级
+FI-012,backlight_mount_bracket,2,MAKE,RELEASED,5052-H32,native_sources/production_parts_v3/pdf/FI-012_backlight_mount_bracket.pdf,按图询价（供应商中立）,材料、尺寸公差、表面处理和检验要求不得降级

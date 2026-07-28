@@ -1,0 +1,14 @@
+{
+  "method": "IEC 61131-3 ST静态编译前检查与状态覆盖测试",
+  "cases": 6,
+  "passed": 6,
+  "failed": 0,
+  "checks": {
+    "io_addresses_unique": true,
+    "state_table_nonempty": true,
+    "alarm_matrix_nonempty": true,
+    "structured_text_has_case": true,
+    "structured_text_has_interlock": true,
+    "state_coverage": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "solver": "linear tetrahedral FEM (SciPy sparse)",
+  "source_step": "native_sources/enhanced_key_parts/step/linear_feeder_track_enhanced.step",
+  "nodes": 517,
+  "tetrahedra": 1576,
+  "E_MPa": 69000.0,
+  "poisson": 0.33,
+  "total_load_N": 300.0,
+  "constraint": "x-min end fixed",
+  "load": "x-max end, -Z",
+  "max_displacement_mm": 0.5192373215214867,
+  "max_von_mises_MPa": 38.54931316365069,
+  "status": "SOLVED",
+  "scope": "digital design verification; not a substitute for prototype test or certified solver review"
+}

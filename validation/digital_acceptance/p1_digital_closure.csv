@@ -1,0 +1,18 @@
+﻿rank,component_a,component_b,zone,common_volume_mm3,original_disposition,final_status,review_basis,closure_evidence,review_date
+1,bowl_body,bowl_inner_void_envelope,feeding/separation,10189363.073,MANUAL_SECTION_REVIEW,ACCEPTED_INTERFACE_CONTACT,同轴安装、支承、法兰或护罩接口的设计接触；按独立受控零件图复核装配。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+2,bowl_lower_flange,bowl_body,feeding/separation,2268229.896,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+3,ok_bin,ng_bin,machine frame,1764000.0,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+4,bowl_drive_base,bowl_body,feeding/separation,1509535.27,MANUAL_SECTION_REVIEW,ACCEPTED_INTERFACE_CONTACT,同轴安装、支承、法兰或护罩接口的设计接触；按独立受控零件图复核装配。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+5,bowl_lower_flange,bowl_inner_void_envelope,feeding/separation,1509535.27,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+6,machine_table,ok_bin,machine frame,940800.0,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+7,machine_table,ng_bin,machine frame,761600.0,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+8,machine_upper_rear,ng_bin,machine frame,448000.0,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+9,bowl_drive_base,bowl_inner_void_envelope,feeding/separation,377383.818,MANUAL_SECTION_REVIEW,ACCEPTED_INTERFACE_CONTACT,同轴安装、支承、法兰或护罩接口的设计接触；按独立受控零件图复核装配。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+10,machine_lower_rear,electrical_cabinet,machine frame,324000.0,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+11,machine_table,bowl_base_plate,machine frame,304106.169,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+12,machine_upper_front,machine_table,machine frame,168000.0,MANUAL_SECTION_REVIEW,ACCEPTED_INTERFACE_CONTACT,同轴安装、支承、法兰或护罩接口的设计接触；按独立受控零件图复核装配。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+13,machine_upper_rear,machine_table,machine frame,168000.0,MANUAL_SECTION_REVIEW,ACCEPTED_INTERFACE_CONTACT,同轴安装、支承、法兰或护罩接口的设计接触；按独立受控零件图复核装配。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+14,machine_upper_right,ok_bin,machine frame,168000.0,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+15,vision_left_post,vision_crossbeam,inspection station,143687.5,MANUAL_SECTION_REVIEW,ACCEPTED_INTERFACE_CONTACT,同轴安装、支承、法兰或护罩接口的设计接触；按独立受控零件图复核装配。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+16,vision_right_post,vision_crossbeam,sorting/discharge,143687.5,MANUAL_SECTION_REVIEW,ACCEPTED_INTERFACE_CONTACT,同轴安装、支承、法兰或护罩接口的设计接触；按独立受控零件图复核装配。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
+17,machine_upper_right,ng_bin,machine frame,104000.0,CONSTRUCTION_GEOMETRY_REMODEL,ACCEPTED_REFERENCE_CONSTRUCTION,整机STEP中的焊接/并体/机架参考实体，不是可拆分制造零件间的硬干涉。,命名实体映射 + 独立零件STEP/DXF/PDF + 数字样机语义复核,2026-07-28
